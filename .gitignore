@@ -1,0 +1,24 @@
+# 编译产物
+*.exe
+*.zip
+*.tgz
+*.tar.gz
+
+# 依赖和缓存
+node_modules/
+package-lock.json
+ms-playwright/
+
+# 用户数据（浏览器Profile，含Cookie等隐私）
+douyin-profile/
+PlaywrightRPA/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+Thumbs.db
+.DS_Store
